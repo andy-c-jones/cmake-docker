@@ -5,5 +5,6 @@ software-properties-common \
 build-essential \
 g++ \
 cmake \
+git \
 && apt-get clean \
 && rm -rf /var/lib/apt/lists/* 
